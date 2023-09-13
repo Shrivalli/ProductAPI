@@ -29,11 +29,12 @@ namespace ProductAPI.Models
 
         public List<Product> GetProducts()
         {
-           prods.Add(new Product(101, "Pencil", 45, 340));
-            prods.Add(new Product(102, "Pen", 23, 390));
+           prods.Add(new Product(101, "Apple", 45, 340));
+            prods.Add(new Product(102, "Banana", 23, 390));
             prods.Add(new Product(103, "Erasor", 56, 140));
             prods.Add(new Product(104, "Fruit", 85, 330));
             prods.Add(new Product(105, "Toys",95, 500));
+            prods.Add(new Product(106, "NewToy",185, 5090));
             return prods;
         }
 
