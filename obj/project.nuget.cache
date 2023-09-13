@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a4/bABdjPBDiWn3l60hQBaA1Aoyui08oa/xU6uWkTVjXa8feExr8bSARGALNz9W1iDLOfNbm6TP6RsJCPWvagA==",
+  "dgSpecHash": "Jpdj+gO22VnKrP4rB3/wklY4p1obZRuGjEGhZzMmk98ChZJlODN2d2mz57Au1Yr6hVYLDErsSRrEVBxxaIYd5Q==",
   "success": true,
-  "projectFilePath": "G:\\CTS Data\\ID006\\Project\\ProductAPI\\ProductAPI.csproj",
+  "projectFilePath": "E:\\Project\\ProductAPI\\ProductAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Shrivalli\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\Shrivalli\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
@@ -55,7 +55,8 @@
     "C:\\Users\\Shrivalli\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
     "C:\\Users\\Shrivalli\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\Shrivalli\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "C:\\Users\\Shrivalli\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512"
+    "C:\\Users\\Shrivalli\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\Shrivalli\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
   ],
   "logs": []
 }

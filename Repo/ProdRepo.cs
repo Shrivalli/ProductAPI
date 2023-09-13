@@ -13,6 +13,7 @@ namespace ProductAPI.Repo
         {
 
         }
+        //Dependency Injection in Constructor
         public ProdRepo(IProduct<Product> _p)
         {
             p = _p;
